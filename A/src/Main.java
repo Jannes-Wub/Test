@@ -24,6 +24,7 @@ public class Main {
         }
     }
 
+    //dies hab ich halt jetzt neu hier gemacht mal schauen
 
     public static void output(){
 
