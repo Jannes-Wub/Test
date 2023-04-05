@@ -13,14 +13,13 @@ public class Main {
             // for you, but you can always add more by pressing Strg+F8.
             System.out.println("i = " + i);
 
-            //serthsdrtjhsdrtjHallo das ist neu
+
+            //ububusefb
 
 
-            //wsegtsaeyrnjgasboezihgaiejr
+            //DAS IST EIN NEUER CHANGE
 
-
-
-            //a<erzghsretuhsrtzjdrte
+            // DAS IST DER NEUE CHANGE AUF TEMP
 
         }
     }
