@@ -19,8 +19,19 @@ public class Main {
 
             //DAS IST EIN NEUER CHANGE
 
-            // DAS IST DER NEUE CHANGE AUF TEMP
+            // DAS IST DER NEUE CHANGE AUF main
 
         }
     }
+
+
+    public static void output(){
+
+        System.out.println("HAHAHAH");
+
+    }
+
+
 }
+
+
