@@ -23,4 +23,15 @@ public class Main {
 
         }
     }
+
+
+    public static void output(){
+
+        System.out.println("HAHAHAH");
+
+    }
+
+
 }
+
+
